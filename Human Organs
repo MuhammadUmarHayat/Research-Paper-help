@@ -1,0 +1,247 @@
+Human organ which can be diagnosis using Radiology (X-Ray,CT,MRI,CT,Ultrasound, PET)
+https://chatgpt.com/s/t_6969078d11088191a20bf646ab6f81cc
+Radiology can diagnose **almost all major human organs** using different imaging modalities. Below is a **clear, exam-oriented and research-friendly mapping** of **human organs → radiology techniques → common diagnosable conditions**.
+
+---
+
+## 1. Brain & Central Nervous System (CNS)
+
+**Modalities:**
+✔ X-ray (limited) | ✔ CT | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Stroke (ischemic & hemorrhagic)
+* Brain tumors (glioma, meningioma)
+* Alzheimer’s & dementia (PET, MRI)
+* Multiple sclerosis
+* Traumatic brain injury
+* Epilepsy focus localization
+
+---
+
+## 2. Heart (Cardiac Imaging)
+
+**Modalities:**
+✔ X-ray | ✔ CT (CT Angiography) | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Coronary artery disease
+* Heart failure
+* Cardiomyopathy
+* Congenital heart defects
+* Myocardial infarction
+* Cardiac tumors
+
+---
+
+## 3. Lungs & Respiratory System
+
+**Modalities:**
+✔ X-ray | ✔ CT | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Pneumonia
+* Tuberculosis
+* Lung cancer
+* COVID-19 lung involvement
+* Pulmonary embolism
+* COPD
+
+---
+
+## 4. Liver
+
+**Modalities:**
+✔ Ultrasound | ✔ CT | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Fatty liver disease
+* Liver cirrhosis
+* Hepatocellular carcinoma
+* Liver cysts & abscesses
+* Metastatic tumors
+
+---
+
+## 5. Kidneys & Urinary System
+
+**Modalities:**
+✔ Ultrasound | ✔ CT | ✔ MRI
+
+**Diagnosable Conditions:**
+
+* Kidney stones
+* Renal tumors
+* Hydronephrosis
+* Polycystic kidney disease
+* Urinary tract obstruction
+
+---
+
+## 6. Gastrointestinal Tract (Stomach, Intestines)
+
+**Modalities:**
+✔ X-ray | ✔ CT | ✔ MRI
+
+**Diagnosable Conditions:**
+
+* Intestinal obstruction
+* Appendicitis
+* Colorectal cancer
+* Crohn’s disease
+* Ulcers & perforation
+
+---
+
+## 7. Pancreas
+
+**Modalities:**
+✔ CT | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Pancreatitis
+* Pancreatic cancer
+* Pancreatic cysts
+
+---
+
+## 8. Spleen
+
+**Modalities:**
+✔ Ultrasound | ✔ CT | ✔ MRI
+
+**Diagnosable Conditions:**
+
+* Splenomegaly
+* Splenic rupture
+* Splenic tumors
+
+---
+
+## 9. Bones & Joints (Musculoskeletal System)
+
+**Modalities:**
+✔ X-ray | ✔ CT | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Bone fractures
+* Osteoporosis
+* Bone tumors
+* Arthritis
+* Ligament & tendon injuries
+
+---
+
+## 10. Breast
+
+**Modalities:**
+✔ X-ray (Mammography) | ✔ Ultrasound | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Breast cancer
+* Fibroadenoma
+* Breast cysts
+
+---
+
+## 11. Reproductive Organs
+
+### Female (Uterus, Ovaries)
+
+**Modalities:**
+✔ Ultrasound | ✔ CT | ✔ MRI
+
+**Conditions:**
+
+* Ovarian cysts
+* Uterine fibroids
+* Endometriosis
+* Gynecologic cancers
+
+### Male (Prostate, Testes)
+
+**Modalities:**
+✔ Ultrasound | ✔ MRI | ✔ PET
+
+**Conditions:**
+
+* Prostate cancer
+* Testicular tumors
+* Infertility evaluation
+
+---
+
+## 12. Blood Vessels (Vascular System)
+
+**Modalities:**
+✔ CT Angiography | ✔ MRI Angiography | ✔ Ultrasound Doppler
+
+**Diagnosable Conditions:**
+
+* Aneurysm
+* Atherosclerosis
+* Deep vein thrombosis (DVT)
+* Stenosis
+
+---
+
+## 13. Thyroid & Endocrine Organs
+
+**Modalities:**
+✔ Ultrasound | ✔ CT | ✔ MRI | ✔ PET
+
+**Diagnosable Conditions:**
+
+* Thyroid nodules
+* Thyroid cancer
+* Goiter
+
+---
+
+## 14. Whole-Body Cancer Detection
+
+**Modalities:**
+✔ PET-CT
+
+**Diagnosable Conditions:**
+
+* Cancer staging
+* Metastasis detection
+* Treatment response monitoring
+
+---
+
+## Summary Table (Quick View)
+
+| Organ/System | X-Ray | CT | MRI | US | PET |
+| ------------ | ----- | -- | --- | -- | --- |
+| Brain        | ❌     | ✔  | ✔   | ❌  | ✔   |
+| Heart        | ✔     | ✔  | ✔   | ❌  | ✔   |
+| Lungs        | ✔     | ✔  | ❌   | ❌  | ✔   |
+| Liver        | ❌     | ✔  | ✔   | ✔  | ✔   |
+| Kidney       | ❌     | ✔  | ✔   | ✔  | ❌   |
+| Bones        | ✔     | ✔  | ✔   | ❌  | ✔   |
+| Breast       | ✔     | ❌  | ✔   | ✔  | ✔   |
+
+---
+
+### 🔬 Research Insight (For PhD / AI Focus – 2026)
+
+* **Multimodal fusion** (X-ray + CT + MRI + PET)
+* **Explainable AI in radiology**
+* **Vision-Language Models for organ-level diagnosis**
+* **Early cancer detection using PET-CT + AI**
+
+If you want, I can also:
+✔ Map **organ → best AI datasets**
+✔ Suggest **PhD thesis topics organ-wise**
+✔ Provide **recent (2024–2026) research papers**
+
+Just tell me 👍
