@@ -7,5 +7,21 @@ Dataset: Latest datasets (Kaggle, TCIA, ADNI, NIH)
 https://chatgpt.com/s/t_6968a349b5c48191bc7f57a2c2123c71
 Research gap identification (2026-focused)
 https://chatgpt.com/s/t_6968a3f9935c81918aab66473579ce39
-In medical imaging technology find the research gaps focused on year 2025 and 2026. Research gap identification for AI in Radiology (X-ray, CT, MRI, PET).
+
+Question : In medical imaging technology find the research gaps focused on year 2025 and 2026. Research gap identification for AI in Radiology (X-ray, CT, MRI, PET).
 https://chat.deepseek.com/share/a2rxjt3dc6u3zikw28
+Researh gaps:
+Summary Table: Focus Areas for 2025-2026
+Theme	          Specific Research Gap	                        Relevant Modalities
+-------------------------------------------------------------------------------------
+Integration	    Context-aware workflow orchestration	            All
+Validation	    Prospective RCTs on patient outcomes	            All (especially CT, X-ray)
+Explanation	    Causal reasoning & treatment guidance  	          MRI, PET, CT
+Equity	        Federated learning for rare diseases/global health	  All (especially X-ray)
+Architecture	  Multimodal visual foundation models            	All
+Efficiency	    Synthetic sequences & acquisition guidance	      MRI, CT
+Quantification	Deriving functional biomarkers from routine scans	CT, X-ray, PET
+----------------------------------------------------------------------------------------
+Question: Medical Imaging  research gaps in NLP and DL ?
+https://chat.deepseek.com/share/h8q2sl8arvr323p8xv
+https://chat.deepseek.com/share/h8q2sl8arvr323p8xv
