@@ -1,2 +1,15 @@
 Modern CV Models Comparison
 https://chatgpt.com/s/t_69689bbeaa308191b5c7a2dcd320302a
+------------------------------------------
+Compare ML vs DL vs CV pipelines:
+
+1. What Is a “Pipeline”?
+
+A pipeline is the complete workflow used to solve a problem:
+
+Input → Processing → Model → Output → Evaluation
+
+https://chatgpt.com/s/t_69689c742f948191a745c65764716cd8
+-----------------------------------------------------------------
+parametric and non parametric models comparisons of ML,DL and CV
+https://chatgpt.com/s/t_69689d9111dc81918b5fb7f68ae893a1
