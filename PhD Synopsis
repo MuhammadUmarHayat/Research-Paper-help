@@ -1,0 +1,179 @@
+PhD Synopsis
+
+Title
+
+Explainable and Trustworthy Multimodal AI for Clinical Decision Support in Medical Imaging and Radiology Reports
+
+---
+
+## 1. Introduction / Background
+
+Recent advances in Artificial Intelligence (AI), particularly Deep Learning (DL), Computer Vision (CV), and Natural Language Processing (NLP), have significantly impacted the healthcare domain. Medical imaging modalities such as X-ray, CT, MRI, and PET generate large volumes of visual data, while radiology reports provide rich textual descriptions of clinical findings. Traditionally, these modalities are analyzed separately, leading to suboptimal clinical decision-making.
+
+Multimodal AI, especially Vision-Language Models (VLMs), enables joint learning from medical images and associated text reports. However, despite high predictive performance, current systems often lack **explainability, transparency, and clinical trust**, limiting real-world adoption. This research aims to develop an **explainable, safe, and trustworthy multimodal AI framework** for disease diagnosis and clinical decision support in radiology.
+
+---
+
+## 2. Problem Statement
+
+Existing multimodal AI models in healthcare:
+
+* Act as black-box systems with limited interpretability
+* Do not sufficiently address clinical safety, bias, and trust
+* Provide weak alignment between visual evidence and textual explanations
+* Lack robustness across diverse datasets and imaging modalities
+
+There is a critical need for an **explainable multimodal AI system** that integrates medical images and radiology reports while providing clinically meaningful explanations and uncertainty-aware predictions.
+
+---
+
+## 3. Research Objectives
+
+### General Objective
+
+To design and evaluate an explainable and trustworthy multimodal AI framework for medical imaging-based clinical decision support.
+
+### Specific Objectives
+
+1. To develop a multimodal dataset combining medical images and radiology reports.
+2. To design a Vision-Language Model (VLM) for joint image-text representation learning.
+3. To integrate explainability techniques (visual and textual) into the model.
+4. To incorporate uncertainty estimation and safety-aware mechanisms.
+5. To evaluate the model across multiple diseases and imaging modalities.
+6. To compare the proposed framework with state-of-the-art unimodal and multimodal models.
+
+---
+
+## 4. Research Questions
+
+1. How can medical images and radiology reports be effectively fused for accurate diagnosis?
+2. How can explainability be embedded into multimodal AI models for clinical trust?
+3. What explainable outputs are most useful for radiologists and clinicians?
+4. How does uncertainty-aware prediction improve patient safety?
+5. Can the proposed model generalize across different datasets and diseases?
+
+---
+
+## 5. Significance of the Study
+
+* Enhances clinical trust in AI-assisted diagnosis
+* Improves interpretability of AI decisions in radiology
+* Supports safer deployment of AI in healthcare
+* Contributes to explainable AI (XAI) and multimodal learning research
+* Assists radiologists in faster and more reliable diagnosis
+
+---
+
+## 6. Scope of the Study
+
+* Imaging Modalities: X-ray, CT, MRI (primary focus on X-ray & CT)
+* Diseases: Pneumonia, Tuberculosis, Lung Cancer, Bone Fracture
+* Data Sources: Public medical datasets (NIH, MIMIC-CXR, TCIA, Kaggle)
+* Methods: Deep Learning, Vision-Language Models, Explainable AI
+
+---
+
+## 7. Literature Review (Summary)
+
+Recent studies demonstrate the effectiveness of multimodal AI in healthcare; however:
+
+* Most models prioritize accuracy over interpretability
+* Limited work exists on safety-aware multimodal AI
+* Few studies align visual explanations with textual clinical reasoning
+
+This research addresses these gaps by combining **explainability, uncertainty estimation, and multimodal learning** in a unified framework.
+
+---
+
+## 8. Research Methodology
+
+### 8.1 Data Collection
+
+* Medical images with corresponding radiology reports
+* Data preprocessing and anonymization
+
+### 8.2 Model Architecture
+
+* CNN / Vision Transformer (ViT) for image feature extraction
+* Transformer-based NLP models (ClinicalBERT / BioGPT)
+* Cross-modal attention-based fusion module
+
+### 8.3 Explainability Techniques
+
+* Grad-CAM / Attention Maps for image explanation
+* Attention visualization and rationale extraction for text
+* Multimodal explanation alignment
+
+### 8.4 Safety & Trust Mechanisms
+
+* Uncertainty estimation (Monte Carlo Dropout)
+* Bias analysis across demographics
+* Confidence-based decision support
+
+### 8.5 Evaluation Metrics
+
+* Accuracy, Precision, Recall, F1-score, AUC
+* Explainability fidelity metrics
+* Clinical expert validation
+
+---
+
+## 9. Expected Outcomes
+
+* An explainable multimodal AI framework for healthcare
+* Improved diagnostic accuracy with interpretable outputs
+* Trustworthy AI model suitable for clinical settings
+* Publications in high-impact journals and conferences
+
+---
+
+## 10. Tools & Technologies
+
+* Programming: Python
+* Frameworks: PyTorch, TensorFlow
+* NLP Models: ClinicalBERT, BioBERT
+* Visualization: Grad-CAM, SHAP
+* Platforms: Kaggle, Google Colab, Local GPU
+
+---
+
+## 11. Ethical Considerations
+
+* Patient data privacy and anonymization
+* Bias mitigation and fairness
+* Transparent and responsible AI usage
+
+---
+
+## 12. Proposed Timeline (3–4 Years)
+
+| Year   | Activities                                         |
+| ------ | -------------------------------------------------- |
+| Year 1 | Literature review, coursework, dataset preparation |
+| Year 2 | Model design and multimodal fusion                 |
+| Year 3 | Explainability, safety integration, experiments    |
+| Year 4 | Validation, publications, thesis writing           |
+
+---
+
+## 13. Expected Publications
+
+* IEEE Transactions on Medical Imaging
+* Elsevier Artificial Intelligence in Medicine
+* MICCAI Conference
+* EMNLP / ACL (Healthcare NLP workshops)
+
+---
+
+## 14. Conclusion
+
+This PhD research aims to bridge the gap between performance and trust in healthcare AI by developing an explainable, safe, and multimodal clinical decision support system. The outcomes will contribute significantly to both academic research and real-world healthcare applications.
+
+---
+
+## 15. References (Indicative)
+
+1. Chen et al., Multimodal Learning for Medical Imaging, IEEE TMI
+2. Johnson et al., MIMIC-CXR Dataset, PhysioNet
+3. Doshi-Velez & Kim, Towards a Rigorous Science of Explainable AI
+4. Holzinger et al., Explainable AI in Medicine
